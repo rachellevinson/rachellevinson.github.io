@@ -10,4 +10,4 @@ I am a first-year Master's student in the UConn EEB department studying Conserva
 
 **Quick links:**  
 [My CV](CV_Levinson.pdf)  
-[Contact](/contact-info/)
+[Contact](/contact-info.html)
