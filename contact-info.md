@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Contact
-permalink: /contact-info/
 ---
 
 Feel free to contact me at <rachel.levinson@uconn.edu>.
