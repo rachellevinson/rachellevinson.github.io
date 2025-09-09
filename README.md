@@ -5,4 +5,4 @@ I am a first-year Master's student in the UConn EEB department interested in mar
 
 [My CV](CV_Levinson.pdf)
 
-[Contact Info](/contact-info/)
+[Contact Info](contact-info.html)
