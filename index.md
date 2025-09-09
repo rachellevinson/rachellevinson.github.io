@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[Home](/) • [Contact](/contact-info/)
+
 <img src="GitHub.jpg">
 
 ## About Me
