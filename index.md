@@ -3,7 +3,10 @@ layout: default
 title: Home
 ---
 
-[Home](/) • [Contact](/contact-info/)
+<nav style="text-align:center; margin-bottom:20px;">
+  <a href="/">Home</a> |
+  <a href="/contact-info.html">Contact</a>
+</nav>
 
 <img src="GitHub.jpg">
 
